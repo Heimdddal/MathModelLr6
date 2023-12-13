@@ -24,6 +24,7 @@
             <DataGrid Name="matrixDataGrid" CanUserSortColumns="False">
 
             </DataGrid>
+            <TextBlock Name="Result" Grid.Row="1"/>
         </Grid>
         
     </Grid>
